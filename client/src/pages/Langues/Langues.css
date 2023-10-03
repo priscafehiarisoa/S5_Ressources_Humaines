@@ -1,0 +1,87 @@
+/* Langues.css */
+
+/* Style pour le titre */
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin: 20px auto; /* Centrez horizontalement et ajoutez une marge */
+    text-align: center; /* Centrez le texte */
+}
+
+/* Style pour le formulaire */
+form {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    text-align: center; /* Centrez le contenu du formulaire */
+    max-width: 400px; /* Limitez la largeur du formulaire */
+    margin: 0 auto; /* Centrez horizontalement */
+}
+
+/* Style pour les labels (ajout d'espace) */
+label {
+    margin-bottom: 10px; /* Ajoutez de l'espace entre les labels */
+    display: block; /* Mettez chaque label sur une nouvelle ligne */
+}
+
+/* Style pour le select */
+select {
+    width: 100%; /* Remplissez la largeur du conteneur */
+    padding: 10px; /* Ajoutez un espace autour du select */
+    border: 1px solid #ccc; /* Ajoutez une bordure */
+    border-radius: 5px;
+    outline: none; /* Supprimez la bordure de focus */
+}
+
+/* Style pour les boutons radio */
+input[type="radio"] {
+    /* Ajoutez ici les styles souhaités pour les boutons radio */
+    margin-right: 10px; /* Espacement entre les boutons radio */
+}
+
+/* Style pour la liste des compétences linguistiques ajoutées */
+ul {
+    list-style-type: none; /* Supprimez les puces de la liste */
+    padding: 0; /* Supprimez la marge intérieure de la liste */
+}
+
+ul li {
+    margin-bottom: 5px; /* Ajoutez de l'espace entre les éléments de la liste */
+    background-color: #f5f5f5; /* Couleur de fond de chaque élément */
+    padding: 5px; /* Espacement autour de chaque élément */
+    border: 1px solid #ddd; /* Ajoutez une bordure autour de chaque élément */
+    border-radius: 5px; /* Arrondissez les coins */
+}
+
+/* Style pour le texte "Compétences linguistiques" */
+h2 {
+    font-size: 20px;
+    color: #333;
+    margin: 20px auto; /* Centrez horizontalement et ajoutez une marge */
+    text-align: center; /* Centrez le texte */
+}
+
+/* Style pour les boutons Ajouter */
+button[type="button"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; /* Ajoutez un espace en haut du bouton */
+}
+
+/* Centrez le bouton Ajouter */
+button[type="button"] {
+    display: block;
+    margin: 0 auto;
+}
+.bout
+{
+    margin-top:10px;
+}
+
+
+/* Ajoutez d'autres styles selon vos besoins */
